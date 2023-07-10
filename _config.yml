@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quanfeng Lu/Personal Homepage"
+title                    : "Quanfeng Lu(鲁权锋)"
 title_separator          : "-"
 name                     : &name "Quanfeng Lu"
 description              : &description "junior undergraduate at Nanjing University (NJU)"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hflqf88888@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
