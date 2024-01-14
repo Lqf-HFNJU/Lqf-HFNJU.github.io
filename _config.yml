@@ -83,11 +83,11 @@ author:
   name             : "Quanfeng Lu"
   avatar           : "profile.png"
   bio              : "A senior undergraduate at Nanjing University (NJU)."
-  location         : "Nanjing, Jiangsu, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "hflqf88888@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NlBS3nMAAAAJ"
+  email            : "luquanfeng@pjlab.org.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
