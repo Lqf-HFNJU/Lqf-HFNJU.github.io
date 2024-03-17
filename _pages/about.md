@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Biography
-I'm a senior undergraduate from [Software Institute](https://software.nju.edu.cn/), [Nanjing University(NJU)](https://www.nju.edu.cn/). My research interest includes computer vision, natural language processing, time series analysis, and quantitative investment.
+I'm a senior undergraduate at [Software Institute](https://software.nju.edu.cn/), [Nanjing University(NJU)](https://www.nju.edu.cn/). My research interest includes computer vision, natural language processing, time series analysis, and quantitative investment.
 
 Beginning in 2024, I will embark on my journey as a Ph.D. student at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I am looking forward to being mentored by [Prof. Ping Luo](http://luoping.me/).
 
