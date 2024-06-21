@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quanfeng Lu(鲁权锋)"
 title_separator          : "-"
 name                     : &name "Quanfeng Lu"
-description              : &description "senior undergraduate at Nanjing University (NJU)"
+description              : &description "first-year Ph.D. student at Shanghai Jiao Tong University(SJTU)"
 url                      : https://Lqf-HFNJU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lqf-HFNJU/Lqf-HFNJU.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quanfeng Lu"
   avatar           : "profile.png"
-  bio              : "A senior undergraduate at Nanjing University (NJU)."
+  bio              : "First-year Ph.D. student at Shanghai Jiao Tong University(SJTU)."
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
