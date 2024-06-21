@@ -26,7 +26,7 @@ Prior to this, he obtained his B.Eng. with outstanding graduate honors from Nanj
   Preprint, 2024. [Paper](https://arxiv.org/abs/2406.08451), [Code](https://github.com/OpenGVLab/GUI-Odyssey)
 
 * OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM,
-Yutao Hu*, Tianbin Li*, **Quanfeng Lu***, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo
+Yutao Hu\*, Tianbin Li\*, **Quanfeng Lu\***, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo
  Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2402.09181), [Code](https://github.com/OpenGVLab/Multi-Modality-Arena/tree/main/MedicalEval)
 
 * ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning,
