@@ -31,7 +31,7 @@ Yutao Hu<sup>\*</sup>, Tianbin Li<sup>\*</sup>, **Quanfeng Lu<sup>\*</sup>**, We
 
 * ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning,  
 Fanqing Meng, Wenqi Shao, **Quanfeng Lu**, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
-  Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL), 2024
+  Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.
   [Paper](https://arxiv.org/abs/2401.02384)
 
 ## Education
