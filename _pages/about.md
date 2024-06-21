@@ -22,7 +22,7 @@ Prior to this, he obtained his B.Eng. with outstanding graduate honors from Nanj
 ## Selected Publications
 
 * GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices,  
-  **Quanfeng Lu**, Wenqi Shao, Zitao Liu, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Yu Qiao, Ping Luo  
+  **Quanfeng Lu**, Wenqi Shao, Zitao Liu, Fanqing Meng, ..., Ping Luo  
   Preprint, 2024. [Paper](https://arxiv.org/abs/2406.08451), [Code](https://github.com/OpenGVLab/GUI-Odyssey)
 
 * MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI,  
