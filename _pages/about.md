@@ -25,6 +25,10 @@ Prior to this, he obtained his B.Eng. with outstanding graduate honors from Nanj
   **Quanfeng Lu**, Wenqi Shao, Zitao Liu, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Yu Qiao, Ping Luo  
   Preprint, 2024. [Paper](https://arxiv.org/abs/2406.08451), [Code](https://github.com/OpenGVLab/GUI-Odyssey)
 
+* MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI,  
+Kaining Ying<sup>\*</sup>, Fanqing Meng<sup>\*</sup>, Jin Wang<sup>\*</sup>, ..., **Quanfeng Lu**, ..., Ping Luo, Kaipeng Zhang, Wenqi Shao  
+ International Conference on Machine Learning (ICML), 2024. [Paper](https://arxiv.org/abs/2404.16006), [Code](https://github.com/OpenGVLab/MMT-Bench)
+
 * OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM,  
 Yutao Hu<sup>\*</sup>, Tianbin Li<sup>\*</sup>, **Quanfeng Lu<sup>\*</sup>**, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo  
  Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2402.09181), [Code](https://github.com/OpenGVLab/Multi-Modality-Arena/tree/main/MedicalEval)
