@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Biography
 
-Quanfeng Lu is a first-year Ph.D. student at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ping Luo](http://luoping.me/). He works closely with [Dr. Wenqi Shao](https://wqshao126.github.io/). His research interests include multimodal applications, time series analysis, and quantitative investment.
+Quanfeng Lu is a first-year Ph.D. student at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), supervised by [Prof. Ping Luo](http://luoping.me/). He works closely with [Dr. Wenqi Shao](https://wqshao126.github.io/). His research interests include multimodal applications, time series analysis, and quantitative investing.
 
 Prior to this, he obtained his B.Eng. with outstanding graduate honors from Nanjing University in 2024.
 
