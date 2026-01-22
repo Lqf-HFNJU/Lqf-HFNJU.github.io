@@ -10,7 +10,7 @@ redirect_from:
 ## Biography
 
 
-I am a first-year Ph.D. student at [the University of Hong Kong (HKU)](https://www.hku.hk/)￼, supervised by [Prof. Ping Luo](https://www.ai.hku.hk/people/academic-staff/pluo) at [MMLAB@HKU](https://mmlab.hk/). I previously received my B.Eng. with Outstanding Graduate Honors from [Nanjing University (NJU)](https://www.nju.edu.cn/en/).
+I am a first-year Ph.D. student at [the University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Ping Luo](https://www.ai.hku.hk/people/academic-staff/pluo) at [MMLAB@HKU](https://mmlab.hk/). I previously received my B.Eng. with Outstanding Graduate Honors from [Nanjing University (NJU)](https://www.nju.edu.cn/en/).
 
 My research interests lie in agent-centric post-training of large vision–language models and their practical applications, with a current emphasis on LLM-based agents in GUI domains.
 
