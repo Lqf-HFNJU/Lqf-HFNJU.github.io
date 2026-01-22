@@ -43,10 +43,10 @@ My research interests lie in agent-centric post-training of large vision–langu
   arXiv, 2025. [Paper](https://arxiv.org/pdf/2503.07365), [Code](https://github.com/ModalMinds/MM-EUREKA)
 * OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM,  
 Yutao Hu<sup>\*</sup>, Tianbin Li<sup>\*</sup>, **Quanfeng Lu<sup>\*</sup>**, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo  
- Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://arxiv.org/abs/2402.09181), [Code](https://github.com/OpenGVLab/Multi-Modality-Arena/tree/main/MedicalEval)
+ CVPR, 2024. [Paper](https://arxiv.org/abs/2402.09181), [Code](https://github.com/OpenGVLab/Multi-Modality-Arena/tree/main/MedicalEval)
 * ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning,  
 Fanqing Meng, Wenqi Shao, **Quanfeng Lu**, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
-  Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2024.
+  ACL, 2024.
   [Paper](https://arxiv.org/abs/2401.02384)
 
 ## Education
