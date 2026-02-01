@@ -59,4 +59,11 @@ Fanqing Meng, Wenqi Shao, **Quanfeng Lu**, Peng Gao, Kaipeng Zhang, Yu Qiao, Pin
 * \[2022\] National Scholarship
 
 ## Services
-Reviewer of ICLR, CVPR, ICCV and ECCV.
+### Conference Reviewers:
+  * CVPR: 2025, 2026
+  * ICCV: 2025
+  * ECCV: 2024, 2026
+  * ICLR: 2026
+  * ICML: 2026
+  * ACL: 2026
+  * ACM MM: 2025
